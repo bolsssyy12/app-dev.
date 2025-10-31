@@ -4,7 +4,7 @@ My first repository.
 
 # My Favorite Series & Movies 🎬
 
-##  Avengers: Endgame
+## [Avengers: Endgame 🦸](https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Endgame)
 Favorite line: "And I am Ironman"
 
 Why I love it:
@@ -14,7 +14,7 @@ Why I love it:
 
 ---
 
-##  One Piece
+## [One Piece 🏴‍☠️](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
 
 Favorite plot twist: the Minks were hiding raizo the entire time, enduring torture from Jack without giving him up because long long time ago they are friend with Oden
 
@@ -27,9 +27,9 @@ Why I love it:
 
 ---
 
-##  Man in Love (사내연애)
+## [Man in Love](https://en.wikipedia.org/wiki/Man_in_Love_(2021_film))
 
-A heartfelt Korean movie about a man who pretends to be a patient to win over a woman he loves, only to find himself truly falling for her.
+A taiwanese movie about a man who pretends to be a patient to win over a woman he loves, only to find himself truly falling for her.
 
 My Thoughts:
 - A beautiful and emotional romantic story.
